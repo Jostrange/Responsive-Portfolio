@@ -179,4 +179,5 @@
 
   .contact-page {
     padding: 20px;
+    min-width: calc(100% - 120px);
   }
